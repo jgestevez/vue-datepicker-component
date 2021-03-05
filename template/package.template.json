@@ -1,0 +1,12 @@
+{
+  "name": "vue-google-flight-datepicker",
+  "description": "An Vuejs convert from react-google-flight-datepicker",
+  "author": "david@jslancer.com",
+  "main": "vue-google-flight-datepicker.umd.min.js",
+  "version": "0.1.17",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "files": ["dist/*", "src/*", "public/*", "*.json", "*.js"]
+}
